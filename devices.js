@@ -1914,6 +1914,9 @@ const devices = [
     },
     {
         zigbeeModel: ['TS0115'],
+		        fingerprint: [
+		            {modelID: 'TS011F', manufacturerName: '_TZ3000_o005nuxx'},
+        ],
         model: 'TS0115',
         vendor: 'TuYa',
         description: 'Multiprise with 4 AC outlets and 2 USB super charging ports (10A or 16A)',
