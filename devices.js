@@ -1938,7 +1938,7 @@ const devices = [
             await bind(device.getEndpoint(2), coordinatorEndpoint, ['genOnOff']);
             await bind(device.getEndpoint(3), coordinatorEndpoint, ['genOnOff']);
             await bind(device.getEndpoint(4), coordinatorEndpoint, ['genOnOff']);
-            await bind(device.getEndpoint(7), coordinatorEndpoint, ['genOnOff']);
+            await bind(device.getEndpoint(5), coordinatorEndpoint, ['genOnOff']);
         },
     },
     {
